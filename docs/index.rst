@@ -13,7 +13,7 @@ Welcome to testt's documentation!
 hiiiiii
 
 Indices and tables
-==================
+--------------
 
 * :ref:`genindex`
 * :ref:`modindex`
